@@ -1,0 +1,14 @@
+- **Basic Arithmetic**
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division (with zero division check)
+- **Advanced Functions**
+  - Power function (`a^b`)
+  - Square root
+  - Logarithm (base 10)
+  - Exponential (`e^x`)
+- **Trigonometry**
+  - Sine (Taylor series)
+  - Cosine (Taylor series)
+  - Tangent (sine ÷ cosine)
